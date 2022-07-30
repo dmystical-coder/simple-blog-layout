@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+.blog-heading {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 54px;
+  color: #000000;
+  line-height: 100%;
+  text-align: center;
+}
+
+.blog-paragraph {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 170%;
+  color: #000000;
+  text-align: center;
+}
+
+.blog-flex-container-heading {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 53px;
+  text-align: center;
+  color: #000000;
+}
+
+.footer-heading {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  /* identical to box height, or 140% */
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.bold {
+  font-weight: 800;
+}
+
+.footer-content {
+  font-weight: 400;
+  font-family: "Inter", sans-serif;
+}
+
+.footer-paragraph {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+}
+
+.social-links a {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 170%;
+}
+
+.copy {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 140%;
+}
